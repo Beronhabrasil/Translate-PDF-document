@@ -1,2 +1,2 @@
 # Translate-PDF-document
-Translate from PDF documento to text in another language
+Translate from PDF documents to text in another language
